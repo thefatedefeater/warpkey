@@ -1,3 +1,4 @@
+Made By @ircfspace
 # WARP+ Keys Collector
 
 a simple tool that automatically collects 15 WARP+ Keys once every hour.<br>
@@ -5,9 +6,9 @@ a simple tool that automatically collects 15 WARP+ Keys once every hour.<br>
 
 
 * Lite Version:
-* https://raw.githubusercontent.com/ircfspace/warpkey/main/plus/lite
+* https://raw.githubusercontent.com/thefatedefeater/warpkey/main/plus/lite
 * Full Version:
-* https://raw.githubusercontent.com/ircfspace/warpkey/main/plus/full
+* https://raw.githubusercontent.com/thefatedefeater/warpkey/main/plus/full
 
 <hr />
 
